@@ -348,11 +348,11 @@ desc "Upload metadata"
                   add_id_info_tracks_install: false,
                   add_id_info_uses_idfa: true,
             },
-            app_review_information: {
-                first_name: "Mykhailo",
-                last_name: "Lypkovskyy",
-                phone_number: "+380996630324",
-                email_address: "mylypkovskyy@gmail.com"
+           app_review_information: {
+                first_name: "Karina",
+                last_name: "Felinova",
+                phone_number: "+380982713094",
+                email_address: "fefilovak297@gmail.com"
               },
             reject_if_possible: false,
             overwrite_screenshots: true,
@@ -367,6 +367,7 @@ desc "Upload metadata"
     end
 
 end
+
 
 
 
